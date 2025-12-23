@@ -47,7 +47,7 @@ Clone the repository:
 
 
 
-git clone https://github.com/yourusername/resume-screener.git
+git clone https://github.com/abhishekgore2005/project
 Install dependencies:
 
 
